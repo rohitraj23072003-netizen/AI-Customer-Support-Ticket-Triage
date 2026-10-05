@@ -1,0 +1,25 @@
+ticket_text,category,priority,resolution
+My card was charged twice for the same order,billing,high,Refunded duplicate charge
+I want to update my payment method,billing,medium,Payment method updated
+Why was I charged an extra fee?,billing,medium,Explained transaction fee
+My invoice has the wrong amount,billing,high,Corrected invoice
+I cannot log in to my account,account,high,Password reset completed
+Please change the email on my account,account,low,Email address updated
+Someone changed my account password,account,high,Account secured and password reset
+How do I delete my account?,account,low,Account deletion instructions provided
+The app crashes whenever I open it,technical,high,Crash issue escalated and fixed
+The website is very slow today,technical,medium,Performance issue investigated
+The API returns a 500 error,technical,high,Server error resolved
+Notifications are not working,technical,medium,Notification service repaired
+How can I use the new dashboard?,product,low,Product usage instructions provided
+The new feature is missing from my account,product,medium,Feature access enabled
+I need help understanding product settings,product,low,Settings explained
+The product is not behaving as described,product,high,Product issue escalated
+My payment failed and I need to order urgently,billing,high,Payment failure resolved
+I forgot my username,account,medium,Username recovery instructions sent
+The mobile application freezes during checkout,technical,high,Checkout crash fixed
+Can you explain how this feature works?,product,low,Feature explanation provided
+I was billed after cancelling my subscription,billing,high,Subscription charge refunded
+I cannot verify my account,account,high,Verification issue resolved
+The dashboard takes too long to load,technical,medium,Loading performance improved
+Where can I find the export option?,product,low,Export option location explained
